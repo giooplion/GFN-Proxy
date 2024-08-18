@@ -1,0 +1,723 @@
+[
+    {
+        "osType": "WINDOWS",
+        "id": "36792051-0ec0-4ed8-8a30-4659be317ab4",
+        "cmsId": 102005611,
+        "sortName": "vdk_playtest_vkballs",
+        "title": "VDK PlayTest VkBalls",
+        "longDescription": "VDK PlayTest VkBalls",
+        "contentRatings": {
+            "type": "PEGI",
+            "categoryKey": "12"
+        },
+        "developerName": "GFN Portal Demo",
+        "geForceUrl": "",
+        "images": {
+            "FEATURE_IMAGE": "",
+            "GAME_BOX_ART": "https://img.nvidiagrid.net/apps/102002811/ZZ/GAME_BOX_ART_01_07e81682-bfb1-423a-8669-b2dc3146b706.jpg",
+            "HERO_IMAGE": "https://img.nvidiagrid.net/apps/102002811/ZZ/HERO_IMAGE_01_c70cae00-de8f-4c89-8942-ce513884d316.jpg",
+            "MARQUEE_HERO_IMAGE": "",
+            "ANSEL_360_IMAGES": [],
+            "KEY_ART": "https://img.nvidiagrid.net/apps/102002811/ZZ/KEY_ART_01_92dfca0b-d8fa-4708-a008-71ed55c394d1.jpg",
+            "KEY_ICON": "https://img.nvidiagrid.net/apps/102002811/ZZ/KEY_ICON_01_81c86356-e348-481f-8dc5-ea308a8a4a59.jpg",
+            "KEY_IMAGE": "https://img.nvidiagrid.net/apps/102002811/ZZ/KEY_ART_01_92dfca0b-d8fa-4708-a008-71ed55c394d1.jpg",
+            "TV_BANNER": "https://img.nvidiagrid.net/apps/102002811/ZZ/TV_BANNER_01_a8c2f643-9a29-4d2f-b36d-45541cb4a687.jpg",
+            "SCREENSHOTS": [],
+            "SCREENSHOT_THUMB": ""
+        },
+        "keywords": [],
+        "maxLocalPlayers": 1,
+        "maxOnlinePlayers": 100,
+        "apks": [],
+        "publisherName": "GFN Portal Demo",
+        "storeIds": [],
+        "streamingModes": [],
+        "supportedControls": [
+            "GAMEPAD",
+            "KEYBOARD",
+            "MOUSE"
+        ],
+        "supportedGamePlayModes": [
+            "SINGLE_PLAYER",
+            "MULTI_PLAYER_ONLINE"
+        ],
+        "type": "GAME",
+        "computedValues": {
+            "earliestReleaseDate": null,
+            "earliestStreetDate": null,
+            "allKeywords": []
+        },
+        "genres": [
+            "ACTION",
+            "FREE_TO_PLAY",
+            "MASSIVELY_MULTIPLAYER_ONLINE"
+        ],
+        "appStore": "UNKNOWN",
+        "variants": []
+    },
+    {
+        "osType": "WINDOWS",
+        "id": "64ef3518-3189-4ba0-93c7-5ed8ce52c7cf",
+        "cmsId": 102209911,
+        "sortName": "marvel's_spider-man_remastered",
+        "title": "Marvel's Spider-Man Remastered",
+        "longDescription": "",
+        "contentRatings": {
+            "type": "PEGI",
+            "categoryKey": "12"
+        },
+        "developerName": "Nixxes Software BV",
+        "geForceUrl": "",
+        "images": {
+            "FEATURE_IMAGE": "",
+            "GAME_BOX_ART": "https://img.nvidiagrid.net/apps/102209211/ZZ/GAME_BOX_ART_01_3b487ff0-f077-4918-ad0e-640d0f658dfd.jpg",
+            "HERO_IMAGE": "",
+            "MARQUEE_HERO_IMAGE": "",
+            "ANSEL_360_IMAGES": [],
+            "KEY_ART": "",
+            "KEY_ICON": "",
+            "KEY_IMAGE": "",
+            "TV_BANNER": "https://img.nvidiagrid.net/apps/102209211/ZZ/TV_BANNER_01_c06471f4-c3a6-4265-8018-f359cdcb6e82.jpg",
+            "SCREENSHOTS": [],
+            "SCREENSHOT_THUMB": ""
+        },
+        "keywords": [],
+        "maxLocalPlayers": 1,
+        "maxOnlinePlayers": 100,
+        "apks": [],
+        "publisherName": "PlayStation PC LLC",
+        "storeIds": [],
+        "streamingModes": [],
+        "supportedControls": [
+            "GAMEPAD",
+            "KEYBOARD",
+            "MOUSE"
+        ],
+        "supportedGamePlayModes": [
+            "SINGLE_PLAYER",
+            "MULTI_PLAYER_ONLINE"
+        ],
+        "type": "GAME",
+        "computedValues": {
+            "earliestReleaseDate": null,
+            "earliestStreetDate": null,
+            "allKeywords": []
+        },
+        "genres": [
+            "ACTION",
+            "FREE_TO_PLAY",
+            "MASSIVELY_MULTIPLAYER_ONLINE"
+        ],
+        "appStore": "STEAM",
+        "variants": []
+    },
+    {
+        "osType": "WINDOWS",
+        "id": "64ef3518-3189-4ba0-93c7-5ed8ce52c7cf",
+        "cmsId": 102209811,
+        "sortName": "marvel's_spider-man_remastered",
+        "title": "Marvel's Spider-Man Remastered",
+        "longDescription": "",
+        "contentRatings": {
+            "type": "PEGI",
+            "categoryKey": "12"
+        },
+        "developerName": "Nixxes Software BV",
+        "geForceUrl": "",
+        "images": {
+            "FEATURE_IMAGE": "",
+            "GAME_BOX_ART": "https://img.nvidiagrid.net/apps/102209211/ZZ/GAME_BOX_ART_01_3b487ff0-f077-4918-ad0e-640d0f658dfd.jpg",
+            "HERO_IMAGE": "",
+            "MARQUEE_HERO_IMAGE": "",
+            "ANSEL_360_IMAGES": [],
+            "KEY_ART": "",
+            "KEY_ICON": "",
+            "KEY_IMAGE": "",
+            "TV_BANNER": "https://img.nvidiagrid.net/apps/102209211/ZZ/TV_BANNER_01_c06471f4-c3a6-4265-8018-f359cdcb6e82.jpg",
+            "SCREENSHOTS": [],
+            "SCREENSHOT_THUMB": ""
+        },
+        "keywords": [],
+        "maxLocalPlayers": 1,
+        "maxOnlinePlayers": 100,
+        "apks": [],
+        "publisherName": "PlayStation PC LLC",
+        "storeIds": [],
+        "streamingModes": [],
+        "supportedControls": [
+            "GAMEPAD",
+            "KEYBOARD",
+            "MOUSE"
+        ],
+        "supportedGamePlayModes": [
+            "SINGLE_PLAYER",
+            "MULTI_PLAYER_ONLINE"
+        ],
+        "type": "GAME",
+        "computedValues": {
+            "earliestReleaseDate": null,
+            "earliestStreetDate": null,
+            "allKeywords": []
+        },
+        "genres": [
+            "ACTION",
+            "FREE_TO_PLAY",
+            "MASSIVELY_MULTIPLAYER_ONLINE"
+        ],
+        "appStore": "STEAM",
+        "variants": []
+    },
+    {
+        "osType": "WINDOWS",
+        "id": "68aad532-e210-40ce-a607-3973b829c352",
+        "cmsId": 102150311,
+        "sortName": "gfdsgfsgsfdg",
+        "title": "Chroma Test 20007-Sep-1-change",
+        "longDescription": "Testing long description - testing a long description change once again.",
+        "contentRatings": {
+            "type": "PEGI",
+            "categoryKey": "12"
+        },
+        "developerName": "Chroma Test Organization",
+        "geForceUrl": "http://shield.nvidia.com/games/grid/#chroma-test-20007",
+        "images": {
+            "FEATURE_IMAGE": "https://img.nvidiagrid.net/apps/100064611/ZZ/FEATURE_IMAGE_01_719b3606-2c77-4ef1-9616-911e3fadbdf0.jpg",
+            "GAME_BOX_ART": "https://img.nvidiagrid.net/apps/100064611/ZZ/GAME_BOX_ART_01_8234d149-1894-4561-a9e9-81f03da23ffa.jpg",
+            "HERO_IMAGE": "https://img.nvidiagrid.net/apps/100064611/ZZ/HERO_IMAGE_01_68e9169a-11a4-4507-a9ea-8b4e67ef702e.jpg",
+            "MARQUEE_HERO_IMAGE": "",
+            "ANSEL_360_IMAGES": [
+                "https://img.nvidiagrid.net/apps/100064611/ZZ/ANSEL_360_IMAGE_01_552486c7-b58f-4d19-bc60-86f89ca5a945.jpg"
+            ],
+            "KEY_ART": "https://img.nvidiagrid.net/apps/100064611/ZZ/KEY_ART_01_7b2ef96d-a957-499f-b1d1-59690ddc3237.jpg",
+            "KEY_ICON": "https://img.nvidiagrid.net/apps/100064611/ZZ/KEY_ICON_01_132cca97-1eca-4358-812e-f491c3597696.jpg",
+            "KEY_IMAGE": "https://img.nvidiagrid.net/apps/100064611/ZZ/KEY_ART_01_7b2ef96d-a957-499f-b1d1-59690ddc3237.jpg",
+            "TV_BANNER": "https://img.nvidiagrid.net/apps/100064611/ZZ/TV_BANNER_01_8042d1c3-1fe0-4256-acb7-2cc1ff93e938.jpg",
+            "SCREENSHOTS": [
+                "https://img.nvidiagrid.net/apps/100064611/US/SCREENSHOT_01_aeda75bd-cc80-4ffe-b4ff-03d65a8a62eb.jpg"
+            ],
+            "SCREENSHOT_THUMB": ""
+        },
+        "keywords": [],
+        "maxLocalPlayers": 1,
+        "maxOnlinePlayers": 100,
+        "apks": [],
+        "publisherName": "Chroma Test Organization",
+        "storeIds": [],
+        "streamingModes": [],
+        "supportedControls": [
+            "GAMEPAD",
+            "KEYBOARD",
+            "MOUSE"
+        ],
+        "supportedGamePlayModes": [
+            "SINGLE_PLAYER",
+            "MULTI_PLAYER_ONLINE"
+        ],
+        "type": "GAME",
+        "computedValues": {
+            "earliestReleaseDate": null,
+            "earliestStreetDate": null,
+            "allKeywords": []
+        },
+        "genres": [
+            "ACTION",
+            "ADVENTURE",
+            "ARCADE",
+            "CASUAL",
+            "DEMO",
+            "FAMILY",
+            "FIGHTING",
+            "PUZZLE",
+            "RACING",
+            "SPORTS",
+            "SIMULATION",
+            "STRATEGY",
+            "PLATFORMER"
+        ],
+        "appStore": "STEAM",
+        "variants": []
+    },
+    {
+        "osType": "WINDOWS",
+        "id": "0889dd79-6456-43c1-9525-57e94abdd83f",
+        "cmsId": 101642411,
+        "sortName": "fortnite_test_environment_3_(for_gs_team)",
+        "title": "Fortnite Test Environment 3 (for GS Team)",
+        "longDescription": "Fortnite Test Environment 3 (for GS Team)",
+        "contentRatings": {
+            "type": "PEGI",
+            "categoryKey": "12"
+        },
+        "developerName": "Epic Games",
+        "geForceUrl": "",
+        "images": {
+            "FEATURE_IMAGE": "",
+            "GAME_BOX_ART": "",
+            "HERO_IMAGE": "",
+            "MARQUEE_HERO_IMAGE": "",
+            "ANSEL_360_IMAGES": [],
+            "KEY_ART": "",
+            "KEY_ICON": "",
+            "KEY_IMAGE": "",
+            "TV_BANNER": "",
+            "SCREENSHOTS": [],
+            "SCREENSHOT_THUMB": ""
+        },
+        "keywords": [],
+        "genres": [
+            "ACTION",
+            "FREE_TO_PLAY",
+            "MASSIVELY_MULTIPLAYER_ONLINE"
+        ],
+        "maxLocalPlayers": 1,
+        "maxOnlinePlayers": 100,
+        "apks": [],
+        "publisherName": "Epic Games",
+        "storeIds": [],
+        "streamingModes": [],
+        "supportedControls": [
+            "GAMEPAD",
+            "KEYBOARD",
+            "MOUSE"
+        ],
+        "supportedGamePlayModes": [
+            "SINGLE_PLAYER",
+            "MULTI_PLAYER_ONLINE"
+        ],
+        "type": "GAME",
+        "appStore": "UNKNOWN",
+        "computedValues": {}
+    },
+    {
+        "osType": "WINDOWS",
+        "id": "70973ec6-d259-4306-ac66-2a9c476bed3b",
+        "cmsId": 100625211,
+        "sortName": "valorant",
+        "title": "Valorant™",
+        "longDescription": "Riot Games presents a new competitive stage for you to shine from. A 5v5 character-based tactical shooter where creativity is your greatest weapon.",
+        "contentRatings": {
+            "type": "PEGI",
+            "categoryKey": "12"
+        },
+        "developerName": "Riot Games, Inc.",
+        "geForceUrl": "",
+        "images": {
+            "FEATURE_IMAGE": "",
+            "GAME_BOX_ART": "https://img.nvidiagrid.net/apps/101529211/ZZ/GAME_BOX_ART_01_2a50418e-be21-4164-a3df-1f4ac0146a2d.png",
+            "HERO_IMAGE": "https://img.nvidiagrid.net/apps/101529211/ZZ/HERO_IMAGE_01_af927bd7-f4ec-4038-9432-ab83a336addf.jpg",
+            "MARQUEE_HERO_IMAGE": "https://img.nvidiagrid.net/apps/101529211/ZZ/MARQUEE_HERO_IMAGE_01_33b9c5f3-7640-45f5-bf42-354ac5364791.jpg",
+            "ANSEL_360_IMAGES": [],
+            "KEY_ART": "https://img.nvidiagrid.net/apps/101529211/ZZ/KEY_ART_01_dc75e2f0-04e4-411e-9b63-3c6c247f0761.jpg",
+            "KEY_ICON": "https://img.nvidiagrid.net/apps/101529211/ZZ/KEY_ICON_01_0339cc2e-b1d7-4331-947c-a875c87c88f0.jpg",
+            "KEY_IMAGE": "https://img.nvidiagrid.net/apps/101529211/ZZ/KEY_ART_01_dc75e2f0-04e4-411e-9b63-3c6c247f0761.jpg",
+            "TV_BANNER": "https://img.nvidiagrid.net/apps/101529211/ZZ/TV_BANNER_01_7dfa387a-7ffb-458e-a27e-3880b6b84655.png",
+            "SCREENSHOTS": [
+                "https://img.nvidiagrid.net/apps/101529211/ZZ/SCREENSHOT_01_6bcbda0e-c919-48a3-b38c-cce8616dc30d.jpg",
+                "https://img.nvidiagrid.net/apps/101529211/ZZ/SCREENSHOT_02_0d22fee0-a701-4ee1-9bec-c570d1a3e484.jpg",
+                "https://img.nvidiagrid.net/apps/101529211/ZZ/SCREENSHOT_03_5b2ebe31-ae75-4e35-828b-6bb4d89f439a.jpg",
+                "https://img.nvidiagrid.net/apps/101529211/ZZ/SCREENSHOT_04_685205d7-e00c-4586-8b51-2da73023df65.jpg",
+                "https://img.nvidiagrid.net/apps/101529211/ZZ/SCREENSHOT_05_697ddabb-6610-4bd0-aaef-0cdba5ecb60e.jpg"
+            ],
+            "SCREENSHOT_THUMB": ""
+        },
+        "keywords": [],
+        "genres": [
+            "ACTION",
+            "FIRST_PERSON_SHOOTER"
+        ],
+        "maxLocalPlayers": 1,
+        "maxOnlinePlayers": 100,
+        "apks": [],
+        "publisherName": "Riot Games, Inc.",
+        "storeIds": [],
+        "streamingModes": [],
+        "supportedControls": [
+            "GAMEPAD",
+            "KEYBOARD",
+            "MOUSE"
+        ],
+        "supportedGamePlayModes": [
+            "SINGLE_PLAYER",
+            "MULTI_PLAYER_ONLINE"
+        ],
+        "type": "GAME",
+        "appStore": "UNKNOWN",
+        "computedValues": {}
+    },
+    {
+        "osType": "WINDOWS",
+        "id": "34cb2e19-bb1c-4f18-aadf-de95950367e0",
+        "cmsId": 102257411,
+        "sortName": "web3walk",
+        "title": "w3w",
+        "longDescription": "",
+        "contentRatings": {
+            "type": "PEGI",
+            "categoryKey": "12"
+        },
+        "developerName": "w3wdigital",
+        "geForceUrl": "",
+        "images": {
+            "FEATURE_IMAGE": "",
+            "GAME_BOX_ART": "",
+            "HERO_IMAGE": "",
+            "MARQUEE_HERO_IMAGE": "",
+            "ANSEL_360_IMAGES": [],
+            "KEY_ART": "",
+            "KEY_ICON": "",
+            "KEY_IMAGE": "",
+            "TV_BANNER": "",
+            "SCREENSHOTS": [],
+            "SCREENSHOT_THUMB": ""
+        },
+        "keywords": [],
+        "genres": [
+            "TECH_DEMO"
+        ],
+        "maxLocalPlayers": 1,
+        "maxOnlinePlayers": 100,
+        "apks": [],
+        "publisherName": "w3wdigital",
+        "storeIds": [],
+        "streamingModes": [],
+        "supportedControls": [
+            "GAMEPAD",
+            "KEYBOARD",
+            "MOUSE"
+        ],
+        "supportedGamePlayModes": [
+            "SINGLE_PLAYER",
+            "MULTI_PLAYER_ONLINE"
+        ],
+        "type": "GAME",
+        "appStore": "UNKNOWN",
+        "computedValues": {}
+    },
+    {
+        "osType": "WINDOWS",
+        "id": "b0de5dff-cf36-4d97-9688-964a192bc400",
+        "cmsId": 3883111,
+        "sortName": "league_of_legends",
+        "title": "League of Legends",
+        "longDescription": "League of Legends is a fast-paced, competitive online game that blends the speed and intensity of an RTS with RPG elements. Two teams of powerful champions, each with a unique design and playstyle, battle head-to-head across multiple battlefields and game modes.",
+        "contentRatings": {
+            "type": "PEGI",
+            "categoryKey": "12"
+        },
+        "developerName": "Riot Games, Inc.",
+        "geForceUrl": "",
+        "images": {
+            "FEATURE_IMAGE": "",
+            "GAME_BOX_ART": "https://img.nvidiagrid.net/apps/100919511/ZZ/GAME_BOX_ART_01_6a0e71ab-7532-446f-9cc5-f2a20523da41.jpg",
+            "HERO_IMAGE": "https://img.nvidiagrid.net/apps/100919511/ZZ/HERO_IMAGE_01_f234dbb0-061a-4611-9230-ffcb37ffaaf6.jpg",
+            "MARQUEE_HERO_IMAGE": "https://img.nvidiagrid.net/apps/100919511/ZZ/MARQUEE_HERO_IMAGE_01_efe724a1-6597-4f15-8678-f3a5c50f306f.jpg",
+            "ANSEL_360_IMAGES": [],
+            "KEY_ART": "https://img.nvidiagrid.net/apps/100919511/ZZ/KEY_ART_01_5e85f057-79e2-41f6-821f-87abf3cb0a1f.jpg",
+            "KEY_ICON": "https://img.nvidiagrid.net/apps/100919511/ZZ/KEY_ICON_01_b8610e22-907e-42d9-84fb-4ecc1193625a.jpg",
+            "KEY_IMAGE": "https://img.nvidiagrid.net/apps/100919511/ZZ/KEY_ART_01_5e85f057-79e2-41f6-821f-87abf3cb0a1f.jpg",
+            "TV_BANNER": "https://img.nvidiagrid.net/apps/100919511/ZZ/TV_BANNER_01_15aa60e9-2031-4ef1-a0b7-dd49f365cbb2.jpg",
+            "SCREENSHOTS": [
+                "https://img.nvidiagrid.net/apps/100919511/ZZ/SCREENSHOT_01_e4cb02f6-d3f9-4be2-885c-b7b99ed8fb3b.jpg",
+                "https://img.nvidiagrid.net/apps/100919511/ZZ/SCREENSHOT_02_5c99b248-6540-4c8e-9918-6e96befbc170.jpg",
+                "https://img.nvidiagrid.net/apps/100919511/ZZ/SCREENSHOT_03_a48444f7-d22a-4883-94cb-5f76506b576b.jpg",
+                "https://img.nvidiagrid.net/apps/100919511/ZZ/SCREENSHOT_04_ef60d7e6-4c6a-432a-a523-c79591a895bd.jpg",
+                "https://img.nvidiagrid.net/apps/100919511/ZZ/SCREENSHOT_05_8480337b-0a43-4f8a-b9ad-000f6e6c2221.jpg"
+            ],
+            "SCREENSHOT_THUMB": ""
+        },
+        "keywords": [],
+        "genres": [
+            "ACTION",
+            "FREE_TO_PLAY",
+            "MULTIPLAYER_ONLINE_BATTLE_ARENA"
+        ],
+        "maxLocalPlayers": 1,
+        "maxOnlinePlayers": 100,
+        "apks": [],
+        "publisherName": "Riot Games, Inc.",
+        "storeIds": [],
+        "streamingModes": [],
+        "supportedControls": [
+            "GAMEPAD",
+            "KEYBOARD",
+            "MOUSE"
+        ],
+        "supportedGamePlayModes": [
+            "SINGLE_PLAYER",
+            "MULTI_PLAYER_ONLINE"
+        ],
+        "type": "GAME",
+        "appStore": "UNKNOWN",
+        "computedValues": {}
+    },
+    {
+        "osType": "WINDOWS",
+        "id": "405b1ba5-c881-4f2b-8f7d-cc9e7cd59b74",
+        "cmsId": 100482211,
+        "sortName": "overwatch_2",
+        "title": "Overwatch® 2",
+        "longDescription": "Overwatch 2 is an always-on and ever-evolving free-to-play, team-based action game set in an optimistic future, where every match is the ultimate 5v5 battlefield brawl featuring new heroes and maps, different ways to play, and unique cosmetics! Lead the charge, ambush your enemies, or aid your allies as one of Overwatch’s 35+ distinct heroes. Team up with friends, take them into battle across 25+ futuristic maps inspired by real-world locations, and master multiple unique game modes.",
+        "contentRatings": {
+            "type": "PEGI",
+            "categoryKey": "12"
+        },
+        "developerName": "Activision Blizzard",
+        "geForceUrl": "",
+        "images": {
+            "FEATURE_IMAGE": "",
+            "GAME_BOX_ART": "https://img.nvidiagrid.net/apps/101595711/ZZ/GAME_BOX_ART_01_fea405b0-b2c2-4b6a-8af8-737148e96b69.jpg",
+            "HERO_IMAGE": "https://img.nvidiagrid.net/apps/101595711/ZZ/HERO_IMAGE_01_dbc2dc10-a9c8-449e-9591-c6121aa718d9.jpg",
+            "MARQUEE_HERO_IMAGE": "https://img.nvidiagrid.net/apps/101595711/ZZ/MARQUEE_HERO_IMAGE_01_2c737290-ff6c-42f1-bd37-295e96a82962.jpg",
+            "ANSEL_360_IMAGES": [],
+            "KEY_ART": "https://img.nvidiagrid.net/apps/101595711/ZZ/KEY_ART_01_e426e6a1-3e6b-4ffb-b6b6-9ba0b955f0d3.jpg",
+            "KEY_ICON": "https://img.nvidiagrid.net/apps/101595711/ZZ/KEY_ICON_01_81402c84-40d9-46b2-95c1-c186834b55ae.jpg",
+            "KEY_IMAGE": "https://img.nvidiagrid.net/apps/101595711/ZZ/KEY_ART_01_e426e6a1-3e6b-4ffb-b6b6-9ba0b955f0d3.jpg",
+            "TV_BANNER": "https://img.nvidiagrid.net/apps/101595711/ZZ/TV_BANNER_01_6dc55d4e-e295-4c1e-9cc1-4f8927801804.jpg",
+            "SCREENSHOTS": [
+                "https://img.nvidiagrid.net/apps/101595711/ZZ/SCREENSHOT_01_1493dccb-5c80-4321-82d4-e158cf7ce875.jpg",
+                "https://img.nvidiagrid.net/apps/101595711/ZZ/SCREENSHOT_02_19d1ff3b-a717-44fc-82ff-fdd34e8a2106.jpg"
+            ],
+            "SCREENSHOT_THUMB": ""
+        },
+        "keywords": [],
+        "genres": [
+            "ACTION",
+            "FREE_TO_PLAY",
+            "FIRST_PERSON_SHOOTER",
+            "MULTIPLAYER_ONLINE_BATTLE_ARENA"
+        ],
+        "maxLocalPlayers": 1,
+        "maxOnlinePlayers": 100,
+        "apks": [],
+        "publisherName": "Activision Blizzard",
+        "storeIds": [],
+        "streamingModes": [],
+        "supportedControls": [
+            "GAMEPAD",
+            "KEYBOARD",
+            "MOUSE"
+        ],
+        "supportedGamePlayModes": [
+            "SINGLE_PLAYER",
+            "MULTI_PLAYER_ONLINE"
+        ],
+        "type": "GAME",
+        "appStore": "UNKNOWN",
+        "computedValues": {}
+    },
+    {
+        "osType": "WINDOWS",
+        "id": "caea461b-9dd8-498e-96ce-cd0186689d1b",
+        "cmsId": 101753111,
+        "sortName": "fortnite_predeploy_environment",
+        "title": "Fortnite Pre-Deploy",
+        "longDescription": "[Environment for Fortnite Pre-Deploy/Hotfix Builds] The hunt is on in Fortnite Chapter 2 - Season 5: Zero Point. Join Agent Jones as he enlists the greatest Hunters across Realities like The Mandalorian to stop others from escaping the loop.\n\nFortnite is the free, always evolving, multiplayer game where you and your friends battle to be the last one standing or collaborate to create your dream Fortnite world. Play both Battle Royale and Fortnite Creative for FREE. Download now and jump into the action. This download also gives you a path to purchase the Save the World co-op PvE campaign.",
+        "contentRatings": {
+            "type": "PEGI",
+            "categoryKey": "12"
+        },
+        "developerName": "Epic Games",
+        "geForceUrl": "",
+        "images": {
+            "FEATURE_IMAGE": "https://img.nvidiagrid.net/apps/101753011/ZZ/FEATURE_IMAGE_01_0f597c4a-adfb-4f61-965c-febe32f81a25.jpg",
+            "GAME_BOX_ART": "https://img.nvidiagrid.net/apps/101753011/ZZ/GAME_BOX_ART_01_9ff6e5a1-b40e-4a45-86db-a514fdd2aef1.jpg",
+            "HERO_IMAGE": "https://img.nvidiagrid.net/apps/101753011/ZZ/HERO_IMAGE_01_ce01b6ea-c891-493a-ac3f-f68857ee788f.jpg",
+            "MARQUEE_HERO_IMAGE": "https://img.nvidiagrid.net/apps/101753011/ZZ/MARQUEE_HERO_IMAGE_01_f2112a21-666a-40a2-999a-7133184e679e.jpg",
+            "ANSEL_360_IMAGES": [],
+            "KEY_ART": "https://img.nvidiagrid.net/apps/101753011/ZZ/KEY_ART_01_bb919a6d-bb82-4b81-ba62-a278fb478b6b.jpg",
+            "KEY_ICON": "https://img.nvidiagrid.net/apps/101753011/ZZ/KEY_ICON_01_bbb3197b-e245-4762-8deb-b1d92f2e3db4.jpg",
+            "KEY_IMAGE": "https://img.nvidiagrid.net/apps/101753011/ZZ/KEY_ART_01_bb919a6d-bb82-4b81-ba62-a278fb478b6b.jpg",
+            "TV_BANNER": "https://img.nvidiagrid.net/apps/101753011/ZZ/TV_BANNER_01_9d913fac-5d58-4297-82ac-184a79f8c5b6.jpg",
+            "SCREENSHOTS": [
+                "https://img.nvidiagrid.net/apps/101753011/ZZ/SCREENSHOT_01_811f270e-4ce1-4c53-a82b-02893df299f1.jpg",
+                "https://img.nvidiagrid.net/apps/101753011/ZZ/SCREENSHOT_02_bc368572-a838-48d4-95ee-7bd811085dab.jpg",
+                "https://img.nvidiagrid.net/apps/101753011/ZZ/SCREENSHOT_03_9c37a90e-24a9-4125-83f8-7cc426de943f.jpg",
+                "https://img.nvidiagrid.net/apps/101753011/ZZ/SCREENSHOT_04_d4e672e5-59ae-4367-847e-068e47ea0d92.jpg",
+                "https://img.nvidiagrid.net/apps/101753011/ZZ/SCREENSHOT_05_a172e746-191b-442b-b8a1-8c281f82ad4a.jpg",
+                "https://img.nvidiagrid.net/apps/101753011/ZZ/SCREENSHOT_06_0a1b79d5-47c8-4227-96bd-c0121bce3d14.jpg",
+                "https://img.nvidiagrid.net/apps/101753011/ZZ/SCREENSHOT_07_ab48aaef-1b2f-485d-8006-a3eea198a39d.jpg"
+            ],
+            "SCREENSHOT_THUMB": ""
+        },
+        "keywords": [],
+        "genres": [
+            "ACTION",
+            "FREE_TO_PLAY",
+            "MASSIVELY_MULTIPLAYER_ONLINE"
+        ],
+        "maxLocalPlayers": 1,
+        "maxOnlinePlayers": 100,
+        "apks": [],
+        "publisherName": "Epic Games",
+        "storeIds": [],
+        "streamingModes": [],
+        "supportedControls": [
+            "GAMEPAD",
+            "KEYBOARD",
+            "MOUSE"
+        ],
+        "supportedGamePlayModes": [
+            "SINGLE_PLAYER",
+            "MULTI_PLAYER_ONLINE"
+        ],
+        "type": "GAME",
+        "appStore": "UNKNOWN",
+        "computedValues": {}
+    },
+    {
+        "osType": "WINDOWS",
+        "id": "580e088e-7bd2-4e39-b4a7-1e7ef0ea2234",
+        "cmsId": 100864711,
+        "sortName": "fortnite_apic",
+        "title": "Fortnite APIC",
+        "longDescription": "",
+        "contentRatings": {
+            "type": "PEGI",
+            "categoryKey": "12"
+        },
+        "developerName": "",
+        "geForceUrl": "",
+        "images": {
+            "FEATURE_IMAGE": "",
+            "GAME_BOX_ART": "",
+            "HERO_IMAGE": "https://img.nvidiagrid.net/apps/101943311/ZZ/HERO_IMAGE_01_649a6ef6-f54a-4e32-88f1-7295277b145d.png",
+            "MARQUEE_HERO_IMAGE": "",
+            "ANSEL_360_IMAGES": [],
+            "KEY_ART": "https://img.nvidiagrid.net/apps/101943311/ZZ/KEY_ART_01_7621b2b7-b857-4eb0-bc1c-0ed0c80e7ead.jpg",
+            "KEY_ICON": "https://img.nvidiagrid.net/apps/101943311/ZZ/KEY_ICON_01_b0ac3bea-f80f-4e6b-a3f9-5f24e978d09d.jpg",
+            "KEY_IMAGE": "https://img.nvidiagrid.net/apps/101943311/ZZ/KEY_ART_01_7621b2b7-b857-4eb0-bc1c-0ed0c80e7ead.jpg",
+            "TV_BANNER": "",
+            "SCREENSHOTS": [],
+            "SCREENSHOT_THUMB": ""
+        },
+        "keywords": [],
+        "genres": [
+            "TECH_DEMO"
+        ],
+        "maxLocalPlayers": 1,
+        "maxOnlinePlayers": 100,
+        "apks": [],
+        "publisherName": "gfncontent",
+        "storeIds": [],
+        "streamingModes": [],
+        "supportedControls": [
+            "GAMEPAD",
+            "KEYBOARD",
+            "MOUSE"
+        ],
+        "supportedGamePlayModes": [
+            "SINGLE_PLAYER",
+            "MULTI_PLAYER_ONLINE"
+        ],
+        "type": "GAME",
+        "appStore": "UNKNOWN",
+        "computedValues": {}
+    },
+    {
+        "osType": "WINDOWS",
+        "id": "ebe52d09-7ab0-475d-8c45-00eecb590768",
+        "cmsId": 100594311,
+        "sortName": "call_of_duty:_warzone",
+        "title": "Call of Duty®: Warzone™",
+        "longDescription": "Call of Duty®: Warzone™ is the massive free-to-play combat arena which features Battle Royales, Resurgence and DMZ.",
+        "contentRatings": {
+            "type": "PEGI",
+            "categoryKey": "12"
+        },
+        "developerName": "Epic Games",
+        "geForceUrl": "",
+        "images": {
+            "FEATURE_IMAGE": "https://img.nvidiagrid.net/apps/101011611/ZZ/FEATURE_IMAGE_01_bce0b056-19fb-41a6-b8bf-b1e1711eb698.jpg",
+            "GAME_BOX_ART": "https://img.nvidiagrid.net/apps/101011611/ZZ/GAME_BOX_ART_01_32cdcaef-c16d-4bd6-b2f1-fa28fbce1e62.jpg",
+            "HERO_IMAGE": "https://img.nvidiagrid.net/apps/101011611/ZZ/HERO_IMAGE_01_5b9fdfa5-f7ba-432e-99c0-c35f30bd809b.jpg",
+            "MARQUEE_HERO_IMAGE": "https://img.nvidiagrid.net/apps/101011611/ZZ/MARQUEE_HERO_IMAGE_01_a937047f-3937-4774-8acb-4642c15d61ae.jpg",
+            "ANSEL_360_IMAGES": [],
+            "KEY_ART": "https://img.nvidiagrid.net/apps/101011611/ZZ/KEY_ART_01_2090dd30-64f0-44ed-97a6-ad9b3c338654.jpg",
+            "KEY_ICON": "https://img.nvidiagrid.net/apps/101011611/ZZ/KEY_ICON_01_4d972176-d1a4-4d03-a46c-f8293955c7f9.png",
+            "KEY_IMAGE": "https://img.nvidiagrid.net/apps/101011611/ZZ/KEY_ART_01_2090dd30-64f0-44ed-97a6-ad9b3c338654.jpg",
+            "TV_BANNER": "https://img.nvidiagrid.net/apps/101011611/ZZ/TV_BANNER_01_5bb15c4b-3495-40e2-a35d-7e68c5d44827.jpg",
+            "SCREENSHOTS": [
+                "https://img.nvidiagrid.net/apps/101011611/ZZ/SCREENSHOT_01_489443c1-7922-4bc6-bd7f-3974faf414d4.jpg",
+                "https://img.nvidiagrid.net/apps/101011611/ZZ/SCREENSHOT_02_67a1c24a-436d-492e-b69a-06c26d77d402.jpg",
+                "https://img.nvidiagrid.net/apps/101011611/ZZ/SCREENSHOT_03_ba857483-822e-4a63-925f-99d305bd9543.jpg",
+                "https://img.nvidiagrid.net/apps/101011611/ZZ/SCREENSHOT_04_251b0241-195f-42e7-89b6-6ec2b23e928e.jpg",
+                "https://img.nvidiagrid.net/apps/101011611/ZZ/SCREENSHOT_05_ed52c3e5-3bfa-4d59-ab61-3c6da4aea239.jpg",
+                "https://img.nvidiagrid.net/apps/101011611/ZZ/SCREENSHOT_06_c8b55969-6435-4876-87b3-a62668b568ca.jpg",
+                "https://img.nvidiagrid.net/apps/101011611/ZZ/SCREENSHOT_07_5d953a09-e165-478b-8612-ff11dada1fd9.jpg",
+                "https://img.nvidiagrid.net/apps/101011611/ZZ/SCREENSHOT_08_deb0364f-d9f0-49ab-a540-e2d88d50d034.jpg",
+                "https://img.nvidiagrid.net/apps/101011611/ZZ/SCREENSHOT_09_ea9c8238-d24e-4120-b639-743ad7193589.jpg",
+                "https://img.nvidiagrid.net/apps/101011611/ZZ/SCREENSHOT_10_f14e2cf4-7660-4754-a10e-aaa59225c5c5.jpg"
+            ],
+            "SCREENSHOT_THUMB": ""
+        },
+        "keywords": [],
+        "genres": [],
+        "maxLocalPlayers": 1,
+        "maxOnlinePlayers": 100,
+        "apks": [],
+        "publisherName": "Activision Blizzard",
+        "storeIds": [],
+        "streamingModes": [],
+        "supportedControls": [
+            "GAMEPAD",
+            "KEYBOARD",
+            "MOUSE"
+        ],
+        "supportedGamePlayModes": [
+            "SINGLE_PLAYER",
+            "MULTI_PLAYER_ONLINE"
+        ],
+        "type": "GAME",
+        "appStore": "UNKNOWN",
+        "computedValues": {}
+    },
+    {
+        "osType": "WINDOWS",
+        "id": "7ea916ea-e90a-45ed-958e-3b78b45f7010",
+        "cmsId": 102258311,
+        "sortName": "marvel's_spider-man:_miles_morales",
+        "title": "Marvel’s Spider-Man: Miles Morales",
+        "longDescription": "",
+        "contentRatings": {
+            "type": "PEGI",
+            "categoryKey": "12"
+        },
+        "developerName": "Nixxes Software BV",
+        "geForceUrl": "",
+        "images": {
+            "FEATURE_IMAGE": "",
+            "GAME_BOX_ART": "https://img.nvidiagrid.net/apps/102257911/ZZ/GAME_BOX_ART_01_f05f671d-4ae3-44bb-bcef-3bd14c0cf008.jpg",
+            "HERO_IMAGE": "",
+            "MARQUEE_HERO_IMAGE": "",
+            "ANSEL_360_IMAGES": [],
+            "KEY_ART": "",
+            "KEY_ICON": "",
+            "KEY_IMAGE": "",
+            "TV_BANNER": "https://img.nvidiagrid.net/apps/102257911/ZZ/TV_BANNER_01_da437c06-aad7-40e6-be08-63eca1637b1f.jpg",
+            "SCREENSHOTS": [],
+            "SCREENSHOT_THUMB": ""
+        },
+        "keywords": [],
+        "genres": [
+            "ACTION"
+        ],
+        "maxLocalPlayers": 1,
+        "maxOnlinePlayers": 100,
+        "apks": [],
+        "publisherName": "PlayStation PC LLC",
+        "storeIds": [],
+        "streamingModes": [],
+        "supportedControls": [
+            "GAMEPAD",
+            "KEYBOARD",
+            "MOUSE"
+        ],
+        "supportedGamePlayModes": [
+            "SINGLE_PLAYER",
+            "MULTI_PLAYER_ONLINE"
+        ],
+        "type": "GAME",
+        "appStore": "STEAM",
+        "computedValues": {}
+    }
+]
